@@ -1,0 +1,10 @@
+Simulation Results Summary
+
+The simulation was executed for an 8-hour operating period under a base chatbot adoption scenario of 60%.
+
+Key observations:
+- Increased chatbot adoption reduced customer waiting times
+- Human agent utilisation decreased as chatbot adoption increased
+- System performance remained stable under moderate demand fluctuations
+
+Detailed numerical results are discussed and interpreted in the dissertation.
